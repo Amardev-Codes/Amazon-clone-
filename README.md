@@ -1,2 +1,2 @@
-# Amazon-clone-
-Hey! here i created the homepage/sign-in page/product page  of amazon.com 
+# Amazon-clone
+Hey! here I created the homepage/sign-in page/product page  of amazon.com 
